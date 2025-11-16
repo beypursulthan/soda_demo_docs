@@ -1,0 +1,2 @@
+- Setup slack tags for sales reps
+- Use sales rep tags for pinging based on location via Slack App in make.com
