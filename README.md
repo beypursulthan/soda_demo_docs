@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This documentation explains how the automation works, step by step, including the logic behind each part of the workflow. The detailed reasoning behind decisions is recorded in the accompanying decision log.
+This documentation explains how the automation works, step by step, including the logic behind each part of the workflow. The detailed reasoning behind decisions is recorded in the decision log.
 
 
 ## 2. Workflow Overview
