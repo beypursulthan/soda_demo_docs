@@ -55,7 +55,7 @@ The workflow would work without parallelization, but this structure reduces over
 
 I chose the Gemini model primarily because:
 
-* It offers a **free API tier**.
+* It offers a **free API tier** and is easily accessible from Google AI studio. It also offers access to all of its premium models for free to test.
 * The integration with Make.com is straightforward.
 * The initial use of **Gemini 2.5 Pro** was unnecessary for this task.
 * After testing, I downgraded to **2.5 Flash**, which is significantly faster.
